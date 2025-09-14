@@ -29,7 +29,7 @@
 - Clone your application's code repository onto the EC2 instance:
     
     ```bash
-    git clone https://github.com/N4si/DevSecOps-Project.git
+    git clone https://github.com/akupheaws/Deploy-Netflix-Clone-on-Cloud-using-Jenkins---DevSecOps-Project.git
     ```
     
 
